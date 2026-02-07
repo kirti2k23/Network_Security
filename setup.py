@@ -24,6 +24,7 @@ def get_packages(file):
         if Hyphen_dot in requirements:
             requirements.remove(Hyphen_dot)
     return requirements
+
 setup(
     name = "Network Security",
     version = "1.0.0",
