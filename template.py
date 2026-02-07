@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 """
-This python script will create the architecure/template for Network Security Project
+This python script will create the architecure/template for the Network Security Project
 
 """
 main_folder = "NetworkSecurity"
