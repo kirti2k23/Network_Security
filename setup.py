@@ -26,7 +26,7 @@ def get_packages(file):
     return requirements
 
 setup(
-    name = "Network Security",
+    name = "Network_Security",
     version = "1.0.0",
     author= "Kirti Verma",
     author_email="kv.edu14@gmail.com",

@@ -1,4 +1,3 @@
-from logger import logger
 import sys
 
 class MycustomException(Exception):
